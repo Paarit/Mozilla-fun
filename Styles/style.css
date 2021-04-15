@@ -1,0 +1,43 @@
+/* p, h1{
+    color:crimson;
+    width: 500px;
+    border: 1px solid black;
+} */
+
+img{
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+}
+
+/* This will change the font for whole page*/
+html{
+    font-size: 13px;
+    font-family: 'Orelega One', cursive;
+    background-color:khaki;
+}
+
+h1{
+    font-size: 60px;
+    text-align:center;
+    padding: 20px 0;
+    margin: 0;
+    color:navy;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing: 1px;
+}
+
+body{
+    width:600px;
+    margin: 2px auto;
+    background-color: rgb(4, 247, 126);
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+
